@@ -1,1 +1,4 @@
+This simple landing page includes a header with navigation links,
+a main hero section with a call-to-action button, and additional sections for about, services, and contact information.
+The footer contains basic copyright information. The JavaScript file includes a function to show an alert message when the button is clicked.
 
